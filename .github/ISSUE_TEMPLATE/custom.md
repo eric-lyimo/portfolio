@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: My Portfolio
+about: Welcome to my profile
 title: ''
 labels: ''
 assignees: ''
